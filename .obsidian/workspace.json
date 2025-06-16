@@ -164,14 +164,23 @@
               "icon": "lucide-file",
               "title": "無題のファイル.md"
             }
+          },
+          {
+            "id": "ae17bd2bb2e790ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 517.5,
-    "collapsed": true
+    "width": 517.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +189,14 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4b7dc991ad4f226e",
   "lastOpenFiles": [
+    "2025-06-17.md",
+    "JCSQE/初級/ChatGPT_1章.md",
     "JCSQE/初級/ChatGPT_2章.md",
     "JCSQE/初級/問題と解説.md",
     "JCSQE/初級/Gemini_1章.md",
@@ -194,7 +206,6 @@
     "JCSQE/初級/image",
     "JCSQE/初級/ChatGPT_試験対策ナビ.md",
     "JCSQE/初級/desktop.ini",
-    "JCSQE/初級/ChatGPT_1章.md",
     "JCSQE/初級",
     "JCSQE",
     "新しいフォルダー",
