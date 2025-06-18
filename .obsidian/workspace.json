@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shokyu/ChatGPT_1章.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT_1章"
+              "title": "README.md"
             }
           }
         ]
@@ -195,12 +195,13 @@
   },
   "active": "c766f12e50c9c7b7",
   "lastOpenFiles": [
+    "shokyu/ChatGPT_2章.md",
+    "shokyu/ChatGPT_1章.md",
+    "README.md.md",
     "chukyu",
     "shokyu/ChatGPT_試験対策ナビ.md",
     "shokyu/Gemini_1章.md",
     "shokyu/問題と解説_メモ.md",
-    "shokyu/ChatGPT_2章.md",
-    "shokyu/ChatGPT_1章.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1 1.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1.md",
@@ -219,7 +220,6 @@
     "image/GQM.png",
     "shokyu/image/desktop.ini",
     "shokyu/image/GQM.png",
-    "shokyu/image",
     "JCSQE/初級/問題と解答.md.md",
     "JCSQE/初級/問題と解答.md 1.md",
     "note/スライド作成の時短にAIを使ってみた.md",
