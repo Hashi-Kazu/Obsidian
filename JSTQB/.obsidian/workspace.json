@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "138eabc1b62d48ad",
+    "id": "1449525af4d3332a",
     "type": "split",
     "children": [
       {
-        "id": "df0c8c9a6e1defdc",
+        "id": "b9d257fe3b4bb32c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7708dbda1fb0c3",
+            "id": "03812a32a4c77e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JCSQE/初級/問題と解説_メモ.md",
+                "file": "AL TA 2019/AL TA0.ビジネス成果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "問題と解説_メモ"
+              "title": "AL TA0.ビジネス成果"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "66c85c545828c0b6",
+    "id": "e2357ab146ed4f5d",
     "type": "split",
     "children": [
       {
-        "id": "9576587d985f309c",
+        "id": "1e825e88572ffe48",
         "type": "tabs",
         "children": [
           {
-            "id": "c766f12e50c9c7b7",
+            "id": "cccd939981ac7294",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "76342da65391b8b3",
+            "id": "75498cd2a605f335",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "da142401ff578ded",
+            "id": "ebb3a8ef7a34602a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "68d4fbfe9a5c2510",
+    "id": "5fb90e37430dae93",
     "type": "split",
     "children": [
       {
-        "id": "891f058e26244a0f",
+        "id": "3487120ece4864a5",
         "type": "tabs",
         "children": [
           {
-            "id": "b7da823df61055d3",
+            "id": "6311abf31dbce780",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "AL TA 2019/AL TA0.ビジネス成果 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイルへのバックリンク"
+              "title": "AL TA0.ビジネス成果 1へのバックリンク"
             }
           },
           {
-            "id": "9f38c61cd02aba0e",
+            "id": "95521b883afad680",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JCSQE/初級/問題と解説.md",
-                "linksCollapsed": true,
+                "file": "AL TA 2019/AL TA0.ビジネス成果 1.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "問題と解説からのアウトゴーイングリンク"
+              "title": "AL TA0.ビジネス成果 1からのアウトゴーイングリンク"
             }
           },
           {
-            "id": "f9d7d61be3570560",
+            "id": "94008a81aa6d43ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,50 +137,26 @@
             }
           },
           {
-            "id": "f78944424f6887d9",
+            "id": "9440f5fe72a6a50e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "JCSQE/初級/問題と解説.md",
+                "file": "AL TA 2019/AL TA0.ビジネス成果 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "問題と解説のアウトライン"
-            }
-          },
-          {
-            "id": "fcaff8db10ff7a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル.md"
-            }
-          },
-          {
-            "id": "ae17bd2bb2e790ee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "AL TA0.ビジネス成果 1のアウトライン"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,55 +165,14 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "ae17bd2bb2e790ee",
+  "active": "cccd939981ac7294",
   "lastOpenFiles": [
-    "JCSQE/初級/Gemini_1章.md",
-    "JCSQE/初級/問題と解説_メモ.md",
-    "JCSQE/初級/ChatGPT_試験対策ナビ.md",
-    "JCSQE/初級/ChatGPT_2章.md",
-    "JCSQE/初級/ChatGPT_1章.md",
-    "JSTQB/AL TA 2019/AL TA0.ビジネス成果.md",
-    "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1 1.md",
-    "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1.md",
-    "JSTQB/ChatGPT_1章.md",
-    "JSTQB/AL TA 2019",
-    "JSTQB",
-    "2025-06-17.md",
-    "初級/問題と解説.md",
-    "JCSQE/初級/image/GQM.png",
-    "JCSQE/初級/image/desktop.ini",
-    "JCSQE/初級/image",
-    "JCSQE/初級/desktop.ini",
-    "JCSQE/初級",
-    "JCSQE",
-    "新しいフォルダー",
-    "初級/Gemini_1章.md",
-    "初級/ChatGPT_2章.md",
-    "初級/ChatGPT_試験対策ナビ.md",
-    "初級/ChatGPT_1章.md",
-    "image/GQM.png",
-    "初級/image/desktop.ini",
-    "初級/image/GQM.png",
-    "初級/image",
-    "JCSQE/初級/問題と解答.md.md",
-    "JCSQE/初級/問題と解答.md 1.md",
-    "note/スライド作成の時短にAIを使ってみた.md",
-    "Markdown/JaSST'24 Shikoku/JaSST'24 Shikoku.md",
-    "Markdown/JaSST’24 Kyushu/JaSST'24 Kyushu.md",
-    "Markdown/ISO29119/テスト計画書.md",
-    "Markdown/Solution/スクラムマスター.md",
-    "Markdown/Sandbox/test.md",
-    "Markdown/SPI_Japan_2024/Day2.md",
-    "Markdown/SPI_Japan_2024/Day1.md",
-    "JCSQE/初級/old/Gemini_JCSQE初級.md",
-    "無題のファイル.canvas",
-    "無題のファイル 2.canvas",
-    "無題のファイル 1.canvas",
-    "無題のファイル 4.canvas",
-    "無題のファイル 3.canvas"
+    "AL TA 2019/AL TA0.ビジネス成果 1 1.md",
+    "ChatGPT_1章.md",
+    "AL TA 2019/AL TA0.ビジネス成果.md",
+    "AL TA 2019/AL TA0.ビジネス成果 1.md"
   ]
 }
