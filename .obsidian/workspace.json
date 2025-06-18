@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JCSQE/初級/問題と解説_メモ.md",
+                "file": "shokyu/ChatGPT_1章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "問題と解説_メモ"
+              "title": "ChatGPT_1章"
             }
           }
         ]
@@ -193,13 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae17bd2bb2e790ee",
+  "active": "c766f12e50c9c7b7",
   "lastOpenFiles": [
-    "JCSQE/初級/Gemini_1章.md",
-    "JCSQE/初級/問題と解説_メモ.md",
-    "JCSQE/初級/ChatGPT_試験対策ナビ.md",
-    "JCSQE/初級/ChatGPT_2章.md",
-    "JCSQE/初級/ChatGPT_1章.md",
+    "chukyu",
+    "shokyu/ChatGPT_試験対策ナビ.md",
+    "shokyu/Gemini_1章.md",
+    "shokyu/問題と解説_メモ.md",
+    "shokyu/ChatGPT_2章.md",
+    "shokyu/ChatGPT_1章.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1 1.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1.md",
@@ -208,21 +209,17 @@
     "JSTQB",
     "2025-06-17.md",
     "初級/問題と解説.md",
-    "JCSQE/初級/image/GQM.png",
-    "JCSQE/初級/image/desktop.ini",
-    "JCSQE/初級/image",
-    "JCSQE/初級/desktop.ini",
-    "JCSQE/初級",
+    "shokyu/image/GQM.png",
+    "shokyu/image/desktop.ini",
+    "shokyu/image",
+    "shokyu/desktop.ini",
+    "shokyu",
     "JCSQE",
     "新しいフォルダー",
-    "初級/Gemini_1章.md",
-    "初級/ChatGPT_2章.md",
-    "初級/ChatGPT_試験対策ナビ.md",
-    "初級/ChatGPT_1章.md",
     "image/GQM.png",
-    "初級/image/desktop.ini",
-    "初級/image/GQM.png",
-    "初級/image",
+    "shokyu/image/desktop.ini",
+    "shokyu/image/GQM.png",
+    "shokyu/image",
     "JCSQE/初級/問題と解答.md.md",
     "JCSQE/初級/問題と解答.md 1.md",
     "note/スライド作成の時短にAIを使ってみた.md",
