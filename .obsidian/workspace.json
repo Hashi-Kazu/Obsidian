@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a7708dbda1fb0c3",
+            "id": "c31af53f4a92125c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf"
+                "file": "intermediate/notes/1.1.1 S-KA：品質の定義（品質の考え方の変遷）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "jcsqe_beginner_syllabus_ver_3_0"
+              "icon": "lucide-file",
+              "title": "1.1.1 S-KA：品質の定義（品質の考え方の変遷）"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "68d4fbfe9a5c2510",
@@ -193,6 +195,14 @@
   },
   "active": "c766f12e50c9c7b7",
   "lastOpenFiles": [
+    "intermediate/notes/1.1.2 S—KA：ソフトウェア品質モデル.md",
+    "intermediate/notes/1_章 ソフトウェア品質の基本概念.md",
+    "intermediate/notes/1.1.1 S-KA：品質の定義（品質の考え方の変遷）.md",
+    "intermediate/notes/1.1 KA：品質の概念.md",
+    "intermediate/jcsqe_intermediate_syllabus_ver_3_0.pdf",
+    "README.md",
+    "無題のフォルダ",
+    "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf",
     "intermediate/assets",
     "beginner/notes/問題と解説_メモ.md",
     "beginner/notes/Gemini_1章.md",
@@ -200,11 +210,8 @@
     "beginner/notes/ChatGPT_2章.md",
     "beginner/notes/ChatGPT_1章.md",
     "beginner/assets/GQM.png",
-    "intermediate/jcsqe_intermediate_syllabus_ver_3_0.pdf",
     "beginner/assets",
     "beginner/新しいフォルダー",
-    "README.md",
-    "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf",
     "beginner/image/GQM.png",
     "beginner/notes",
     "intermediate/notes",
@@ -214,10 +221,8 @@
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1.md",
     "JSTQB/ChatGPT_1章.md",
     "JSTQB/AL TA 2019",
-    "JSTQB",
     "2025-06-17.md",
     "初級/問題と解説.md",
-    "beginner/image/desktop.ini",
     "image/GQM.png",
     "JCSQE/初級/問題と解答.md.md",
     "JCSQE/初級/問題と解答.md 1.md",
@@ -228,8 +233,6 @@
     "Markdown/Solution/スクラムマスター.md",
     "Markdown/Sandbox/test.md",
     "Markdown/SPI_Japan_2024/Day2.md",
-    "Markdown/SPI_Japan_2024/Day1.md",
-    "JCSQE/初級/old/Gemini_JCSQE初級.md",
     "無題のファイル.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
