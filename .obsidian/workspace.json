@@ -11,14 +11,12 @@
             "id": "7a7708dbda1fb0c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "jcsqe_beginner_syllabus_ver_3_0"
             }
           }
         ]
@@ -195,13 +193,22 @@
   },
   "active": "c766f12e50c9c7b7",
   "lastOpenFiles": [
-    "shokyu/ChatGPT_2章.md",
-    "shokyu/ChatGPT_1章.md",
+    "intermediate/assets",
+    "beginner/notes/問題と解説_メモ.md",
+    "beginner/notes/Gemini_1章.md",
+    "beginner/notes/ChatGPT_試験対策ナビ.md",
+    "beginner/notes/ChatGPT_2章.md",
+    "beginner/notes/ChatGPT_1章.md",
+    "beginner/assets/GQM.png",
+    "intermediate/jcsqe_intermediate_syllabus_ver_3_0.pdf",
+    "beginner/assets",
+    "beginner/新しいフォルダー",
     "README.md",
-    "chukyu",
-    "shokyu/ChatGPT_試験対策ナビ.md",
-    "shokyu/Gemini_1章.md",
-    "shokyu/問題と解説_メモ.md",
+    "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf",
+    "beginner/image/GQM.png",
+    "beginner/notes",
+    "intermediate/notes",
+    "intermediate",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1 1.md",
     "JSTQB/AL TA 2019/AL TA0.ビジネス成果 1.md",
@@ -210,16 +217,8 @@
     "JSTQB",
     "2025-06-17.md",
     "初級/問題と解説.md",
-    "shokyu/image/GQM.png",
-    "shokyu/image/desktop.ini",
-    "shokyu/image",
-    "shokyu/desktop.ini",
-    "shokyu",
-    "JCSQE",
-    "新しいフォルダー",
+    "beginner/image/desktop.ini",
     "image/GQM.png",
-    "shokyu/image/desktop.ini",
-    "shokyu/image/GQM.png",
     "JCSQE/初級/問題と解答.md.md",
     "JCSQE/初級/問題と解答.md 1.md",
     "note/スライド作成の時短にAIを使ってみた.md",
