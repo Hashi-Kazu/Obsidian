@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "intermediate/notes/1.1 KA：品質の概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイルへのバックリンク"
+              "title": "1.1 KA：品質の概念へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JCSQE/初級/問題と解説.md",
+                "file": "intermediate/notes/1.1 KA：品質の概念.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "問題と解説からのアウトゴーイングリンク"
+              "title": "1.1 KA：品質の概念からのアウトゴーイングリンク"
             }
           },
           {
@@ -193,20 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31af53f4a92125c",
+  "active": "ae17bd2bb2e790ee",
   "lastOpenFiles": [
-    "intermediate/jcsqe_intermediate_syllabus_ver_3_0.pdf",
-    "intermediate/notes/1.2 KA：品質マネジメントの概念.md",
-    "intermediate/notes/1.1 KA：品質の概念.md",
     "intermediate/notes/1_章 ソフトウェア品質の基本概念.md",
-    "intermediate/notes/1.1.2 S—KA：ソフトウェア品質モデル.md",
-    "intermediate/notes/1.2.1 S—KA：品質保証の考え方.md",
     "README.md",
+    "beginner/notes/問題と解説_メモ.md",
+    "intermediate/notes/1.2.1 S—KA：品質保証の考え方.md",
+    "intermediate/jcsqe_intermediate_syllabus_ver_3_0.pdf",
+    "intermediate/notes/1.1.2 S—KA：ソフトウェア品質モデル.md",
+    "intermediate/notes/1.1 KA：品質の概念.md",
+    "intermediate/notes/1.2 KA：品質マネジメントの概念.md",
     "intermediate/notes/1.1.1 S-KA：品質の定義（品質の考え方の変遷）.md",
     "無題のフォルダ",
     "beginner/jcsqe_beginner_syllabus_ver_3_0.pdf",
     "intermediate/assets",
-    "beginner/notes/問題と解説_メモ.md",
     "beginner/notes/Gemini_1章.md",
     "beginner/notes/ChatGPT_試験対策ナビ.md",
     "beginner/notes/ChatGPT_2章.md",
